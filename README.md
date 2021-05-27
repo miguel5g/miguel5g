@@ -24,5 +24,5 @@ I love the world of programming, and as the technology I most admire is javascri
 ****
 
 ## :tada: My Github stats:
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel5g&theme=radical" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel5g&langs_count=16&theme=radical" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=miguel5g&show_icons=true&theme=radical" />
