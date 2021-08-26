@@ -30,4 +30,4 @@ I love the world of programming, and as the technology I most admire is javascri
 
 ## :tada: My Github stats:
 
-<img  align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=miguel5g&show_icons=true&theme=radical" /><img  align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel5g&layout=compact&theme=radical" />
+<img  align="left" width="50%" style="padding: 0 !important;" src="https://github-readme-stats.vercel.app/api?username=miguel5g&show_icons=true&theme=radical" /><img  align="right" width="50%" style="padding: 0 !important;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel5g&layout=compact&theme=radical" />
