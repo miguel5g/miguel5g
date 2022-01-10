@@ -13,12 +13,13 @@ I love the world of programming, and as the technology I most admire is javascri
 [![Linkedin Badge](https://img.shields.io/badge/_Miguel_Ângelo_-b1295b?style=flat-square&labelColor=b1295b&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/miguel5g/)
 [![Mail Badge](https://img.shields.io/badge/_miguelcg958@gmail.com_-b1295b?style=flat-square&labelColor=b1295b&logo=gmail&logoColor=fff)](mailto:miguelcg958@gmail.com)
 [![Discord Badge](https://img.shields.io/badge/_Guel%233451_-b1295b?style=flat-square&labelColor=b1295b&logo=discord&logoColor=fff)](https://discordapp.com/users/342803796201832449/)
+[![Dev.to Badge](https://img.shields.io/badge/_Miguel_Ângelo_-b1295b?style=flat-square&labelColor=b1295b&logo=dev.to&logoColor=fff)](https://dev.to/miguel5g)
 
 ## :rocket: Languages and Tools:
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=Typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=React&logoColor=white)
@@ -27,6 +28,10 @@ I love the world of programming, and as the technology I most admire is javascri
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=white)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=Heroku&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=Vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black)
 
 ## :tada: My Github stats:
 
