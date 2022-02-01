@@ -2,9 +2,9 @@
 
 ### 😄 About me
 
-Eu amo o mundo da tecnologia, e linguagem que eu mais admiro é o JavaScript/TypeScript, eu acho incrível tudo que é possível construir com elas.
+Eu amo o mundo da tecnologia, e a linguagem que eu mais admiro é o **JavaScript/TypeScript**, eu acho incrível tudo que é possível construir com elas.
 
-Atualmente estou estudando bastante tecnologias front-end, como React, Next.JS, Vercel, HTML, SASS, JavaScript/TypeScript e tudo que for relacionado.
+Atualmente estou estudando bastante tecnologias **Front-end**, como React, Next.JS, Vercel, HTML, SASS, JavaScript/TypeScript e relacionados.
 
 ### 🔎 Onde me encontrar
 
@@ -18,6 +18,8 @@ Atualmente estou estudando bastante tecnologias front-end, como React, Next.JS, 
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=Typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
