@@ -1,13 +1,12 @@
-<h1 align="center">Hi, I'm Miguel 👋</h1>
+## Olá, eu sou Miguel Ângelo 🖖
 
-![](https://visitor-badge.laobi.icu/badge?style=flat-square&page_id=miguel5g)
-![](https://img.shields.io/github/followers/miguel5g?style=flat-square)
+### 😄 About me
 
-## :blush: About me:
+Eu amo o mundo da tecnologia, e linguagem que eu mais admiro é o JavaScript/TypeScript, eu acho incrível tudo que é possível construir com elas.
 
-I love the world of programming, and as the technology I most admire is javascript / typescript, I think the amount of things we can do with them is incredible.
+Atualmente estou estudando bastante tecnologias front-end, como React, Next.JS, Vercel, HTML, SASS, JavaScript/TypeScript e tudo que for relacionado.
 
-## :mag_right: How to reach me:
+### 🔎 Onde me encontrar
 
 [![Twitter Badge](https://img.shields.io/badge/_guel5g_-b1295b?style=flat-square&labelColor=b1295b&logo=twitter&logoColor=fff)](https://twitter.com/guel5g)
 [![Linkedin Badge](https://img.shields.io/badge/_Miguel_Ângelo_-b1295b?style=flat-square&labelColor=b1295b&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/miguel5g/)
@@ -15,7 +14,7 @@ I love the world of programming, and as the technology I most admire is javascri
 [![Discord Badge](https://img.shields.io/badge/_Guel%233451_-b1295b?style=flat-square&labelColor=b1295b&logo=discord&logoColor=fff)](https://discordapp.com/users/342803796201832449/)
 [![Dev.to Badge](https://img.shields.io/badge/_Miguel_Ângelo_-b1295b?style=flat-square&labelColor=b1295b&logo=dev.to&logoColor=fff)](https://dev.to/miguel5g)
 
-## :rocket: Languages and Tools:
+### 🚀 Linguagens e ferramentas
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -32,8 +31,6 @@ I love the world of programming, and as the technology I most admire is javascri
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=Heroku&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=Vercel&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black)
-
-## :tada: My Github stats:
 
 <div align="center">
   <a href="https://github.com/miguel5g">
