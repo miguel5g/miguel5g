@@ -1,10 +1,10 @@
 ## Olá, eu sou Miguel Ângelo 🖖
 
-### 😄 About me
+### 😄 Sobre mim
 
-Eu amo o mundo da tecnologia, e a linguagem que eu mais admiro é o **JavaScript/TypeScript**, eu acho incrível tudo que é possível construir com elas.
+Eu amo o mundo da tecnologia e a linguagem que eu mais admiro é o **_JavaScript_**/**_TypeScript_**, eu acho incrível tudo que é possível construir com elas.
 
-Atualmente estou estudando bastante tecnologias **Front-end**, como React, Next.JS, Vercel, HTML, SASS, JavaScript/TypeScript e relacionados.
+Atualmente estou estudando bastante tecnologias **_Front-end_**, como React, Next.JS, Vercel, HTML, SASS, JavaScript/TypeScript e relacionados.
 
 ### 🔎 Onde me encontrar
 
