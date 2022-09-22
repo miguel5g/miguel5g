@@ -34,8 +34,12 @@ Atualmente estou estudando bastante tecnologias **_Front-end_**, como React, Nex
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=Vercel&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black)
 
+<!--
+
 <div align="center">
   <a href="https://github.com/miguel5g">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miguel5g&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel5g&layout=compact&langs_count=7&theme=radical"/>
 </div>
+
+--!>
