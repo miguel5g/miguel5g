@@ -1,49 +1,30 @@
-## Olá, eu sou Miguel Ângelo 🖖
+# Miguel Ângelo
 
-### 😄 Sobre mim
+Especialista em construir aplicações web escaláveis e de alta performance com o ecossistema JavaScript/TypeScript.
 
-Eu amo o mundo da tecnologia e a linguagem que eu mais admiro é o **_JavaScript_**/**_TypeScript_**, eu acho incrível tudo que é possível construir com elas.
+Com anos de experiência no mercado, atualmente lidero iniciativas técnicas na **Catsuc** e **WI Consultoria**, entregando soluções focadas em Front-end Moderno e DX (Developer Experience).
 
-Atualmente estou estudando bastante tecnologias **_Front-end_**, como React, Next.JS, Vercel, HTML, SASS, JavaScript/TypeScript e relacionados.
+---
 
-### 🔎 Onde me encontrar
+### 🛠 Tech Stack & Ferramentas
 
-[![Twitter Badge](https://img.shields.io/badge/_guel5g_-b1295b?style=flat-square&labelColor=b1295b&logo=twitter&logoColor=fff)](https://twitter.com/guel5g)
-[![Linkedin Badge](https://img.shields.io/badge/_Miguel_Ângelo_-b1295b?style=flat-square&labelColor=b1295b&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/miguel5g/)
-[![Mail Badge](https://img.shields.io/badge/_miguelcg958@gmail.com_-b1295b?style=flat-square&labelColor=b1295b&logo=gmail&logoColor=fff)](mailto:miguelcg958@gmail.com)
-[![Discord Badge](https://img.shields.io/badge/_Guel%233451_-b1295b?style=flat-square&labelColor=b1295b&logo=discord&logoColor=fff)](https://discordapp.com/users/342803796201832449/)
-[![Dev.to Badge](https://img.shields.io/badge/_Miguel_Ângelo_-b1295b?style=flat-square&labelColor=b1295b&logo=dev.to&logoColor=fff)](https://dev.to/miguel5g)
+Minha expertise principal foca no ecossistema React e Node.js.
 
-### 🚀 Linguagens e ferramentas
+* **Core:** TypeScript, JavaScript (ES6+), Node.js
+* **Front-end:** React, Next.js, TailwindCSS, SASS
+* **Back-end/Data:** Prisma, PostgreSQL, Docker, Serverless
+* **DevOps/Cloud:** Vercel, Railway, CI/CD Pipelines
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=Typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
-![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=React&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)
-![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=white)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=Heroku&logoColor=white)
-![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=flat-square&logo=Railway&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=Vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black)
+---
 
-<!--
+### 💼 Empreendedorismo & Projetos
 
-<div align="center">
-  <a href="https://github.com/miguel5g">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miguel5g&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel5g&layout=compact&langs_count=7&theme=radical"/>
-</div>
+* **Catsuc**: Consultoria e desenvolvimento de software focada em transformar processos complexos em soluções digitais eficientes e sob medida para empresas.
+* **Sistemas para Saúde Pública (SUS)**: Engenharia e infraestrutura de alta disponibilidade para redes municipais de saúde. O sistema oferece escalabilidade e resiliência, suportando milhares de acessos simultâneos diariamente em diversos municípios do Brasil.
 
---!>
+---
+
+### 📬 Contato
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/miguel5g/)
+[![Email Badge](https://img.shields.io/badge/-miguel.angelo@catsuc.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:miguel.angelo@catsuc.com)
